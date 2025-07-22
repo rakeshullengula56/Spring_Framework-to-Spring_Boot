@@ -1,3 +1,6 @@
 [submodule "Spring1"]
 	path = Spring1
 	url = https://github.com/rakeshullengula56/SpringFramework.git
+[submodule "SpringJDBC"]
+	path = SpringJDBC
+	url = https://github.com/rakeshullengula56/SpringJDBC.git
